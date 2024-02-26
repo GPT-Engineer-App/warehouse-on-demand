@@ -55,7 +55,7 @@ const FeaturesSection = () => {
         Servicios y Comodidades
       </Heading>
       <Flex direction={{ base: "column", md: "row" }} justify="center" align="center" wrap="wrap">
-        <FeatureCard icon={<Icon as={FaPlusCircle} w={10} h={10} />} title="Accesorios Opcionales" text="Personaliza tu almacén con estantes, colgadores y más." />
+        <FeatureCard icon={<Icon as={FaPlusCircle} w={10} h={10} />} title="Personaliza tu bodega" text="Personaliza tu almacén con estantes, colgadores y más." />
         <FeatureCard icon={<Icon as={FaTruckMoving} w={10} h={10} />} title="Transporte a Domicilio" text="Llevamos el almacén a tu casa u oficina cuando lo necesites." />
         <FeatureCard icon={<Icon as={FaClipboardList} w={10} h={10} />} title="Gestión Sencilla" text="Controla tu inventario fácilmente con nuestra plataforma." />
       </Flex>
