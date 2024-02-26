@@ -42,7 +42,7 @@ const HeroSection = () => {
         </Text>
       </Box>
       <Box flex="1" maxW={{ base: "100%", md: "50%" }}>
-        <Image src="your-updated-container-image-url.jpg" alt="Almacén Contenedor Personalizado" />
+        <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuo2MnbFk2uIfARJPCVx8d3W1zRaqVaeBGY6xLcEue3MdhM4XSK4MEKxvsVpoOBycsaE4&usqp=CAU" alt="Almacén Contenedor Personalizado" />
       </Box>
     </Flex>
   );
