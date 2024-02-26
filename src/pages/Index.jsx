@@ -41,8 +41,8 @@ const HeroSection = () => {
           Alquila un almacén del tamaño de un contenedor, y nosotros lo llevamos donde lo necesites.
         </Text>
       </Box>
-      <Box flex="1">
-        <Image src="https://images.unsplash.com/photo-1493946740644-2d8a1f1a6aff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxzaGlwcGluZyUyMGNvbnRhaW5lciUyMHdhcmVob3VzZXxlbnwwfHx8fDE3MDg5NjUxMDJ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Almacén Contenedor" />
+      <Box flex="1" maxW={{ base: "100%", md: "50%" }}>
+        <Image src="your-updated-container-image-url.jpg" alt="Almacén Contenedor Personalizado" />
       </Box>
     </Flex>
   );
